@@ -11,6 +11,7 @@ public class User implements Serializable {
    private int id;
    private String name;
    private String profession;
+   private String profession1;
 
    public User(){}
 
