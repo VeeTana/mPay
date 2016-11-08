@@ -21,6 +21,7 @@ public class WebServiceTester  {
 
    private void init(){
       this.client = ClientBuilder.newClient();
+      // For init.
    }
 
    public static void main(String[] args){
